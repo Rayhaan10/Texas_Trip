@@ -1,2 +1,2 @@
-# Texas_Trip
-practice_1
+#MyApp
+This is my app
